@@ -2,7 +2,7 @@
 
 Estimer les frais médicaux annuels d'un assuré à partir de son profil (âge, IMC, tabac, enfants, région) et identifier les facteurs qui font le plus varier les coûts.
 
-**Démo en ligne :** [[LIEN STREAMLIT]](https://insurance-zineb.streamlit.app/)
+**Démo en ligne :** [insurance-zineb.streamlit.app](https://insurance-zineb.streamlit.app/)
 
 ## Le problème
 Les assureurs santé doivent estimer les coûts médicaux de leurs assurés pour mieux gérer les risques et proposer des tarifs adaptés.
